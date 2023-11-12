@@ -21,11 +21,11 @@ trabalhoso ter que fazer tudo isso de forma manual, não é mesmo? Você perderi
 preencher 6 informações no sistema para cada linha da base de dados. E para evitar esse tipo de trabalho manual, vamos criar automações com Python.<p>
 
  <p>Ao rodar o programa vamos ter as seguintes ações para completar o nosso cadastro:</p> 
- <p>Abrir o navegador</p>
- <p>Acessar o site do sistema com login e senha</p> 
- <p>Inserir todas as informações do produto</p> 
- <p>Enviar as informações para o sistema</p> 
- <p>Repetir o cadastro até acabar o cadastro de todos os produtos</p> 
+<small>Abrir o navegador<small>
+<small>Acessar o site do sistema com login e senha<small>
+<small>Inserir todas as informações do produto<small>
+<small>Enviar as informações para o sistema<small>
+<small>Repetir o cadastro até acabar o cadastro de todos os produtos<small> 
 
 <p>A ideia desse projeto é lhe mostrar como é possível automatizar suas tarefas repetitivas utilizando o Python.</p>
 <br>
@@ -59,10 +59,10 @@ fill in 6 pieces of information in the system for each line in the database. And
 
 <p>When running the program we will have the following actions to complete our registration:</p>
 <br>
-  <p>Open the browser</p>
-  <p>Access the system website with login and password</p>
-  <p>Enter all product information</p>
-  <p>Send information to the system</p>
-  <p>Repeat registration until all products are registered</p>
+<small>Open browser<small>
+<small>Access the system website with login and password<small>
+<small>Enter all product information<small>
+<small>Send information to the system<small>
+<small>Repeat registration until all products are registered<small>
 
 <p>The idea of this project was to show you how you can automate your repetitive tasks using Python.</p>
