@@ -17,7 +17,7 @@ trabalhoso ter que fazer tudo isso de forma manual, não é mesmo? Você perderi
 
 
 <h2>Entendendo a Base de Dados</h2>
-<p>Temos o código do produto, marca, tipo, preço unitário, custo e observação._ Outro ponto é que temos 264 linhas de informação, então temos que 
+<p>Temos o código do produto, marca, tipo, preço unitário, custo e observação. Outro ponto é que temos 264 linhas de informação, então temos que 
 preencher 6 informações no sistema para cada linha da base de dados. E para evitar esse tipo de trabalho manual, vamos criar automações com Python.<p>
 
  <p>Ao rodar o programa vamos ter as seguintes ações para completar o nosso cadastro:</p> 
@@ -56,7 +56,7 @@ It's hard to have to do all this manually, isn't it? You would lose up to a few 
 
 
 <h4>Understanding the Database</h4>
-<p>We have the product code, brand, type, unit price, cost and observation._ Another point is that we have 264 lines of information, so we have to
+<p>We have the product code, brand, type, unit price, cost and observation. Another point is that we have 264 lines of information, so we have to
 fill in 6 pieces of information in the system for each line in the database. And to avoid this type of manual work, let's create automations with Python.<p>
 
 <p>When running the program we will have the following actions to complete our registration:</p>
