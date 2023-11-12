@@ -20,12 +20,12 @@ trabalhoso ter que fazer tudo isso de forma manual, não é mesmo? Você perderi
 <p>Temos o código do produto, marca, tipo, preço unitário, custo e observação._ Outro ponto é que temos 264 linhas de informação, então temos que 
 preencher 6 informações no sistema para cada linha da base de dados. E para evitar esse tipo de trabalho manual, vamos criar automações com Python.<p>
 
-<p>Ao rodar o programa vamos ter as seguintes ações para completar o nosso cadastro:</p> 
-  _Abrir o navegador_ 
-  _Acessar o site do sistema com login e senha_
-  _Inserir todas as informações do produto_
-  _Enviar as informações para o sistema_ 
-  _Repetir o cadastro até acabar o cadastro de todos os produtos_
+ <p>Ao rodar o programa vamos ter as seguintes ações para completar o nosso cadastro:</p> 
+ <p>Abrir o navegador</p>
+ <p>Acessar o site do sistema com login e senha</p> 
+ <p>Inserir todas as informações do produto</p> 
+ <p>Enviar as informações para o sistema</p> 
+ <p>Repetir o cadastro até acabar o cadastro de todos os produtos</p> 
 
 <p>A ideia desse projeto é lhe mostrar como é possível automatizar suas tarefas repetitivas utilizando o Python.</p>
 <br>
@@ -58,11 +58,11 @@ It's hard to have to do all this manually, isn't it? You would lose up to a few 
 fill in 6 pieces of information in the system for each line in the database. And to avoid this type of manual work, let's create automations with Python.<p>
 
 <p>When running the program we will have the following actions to complete our registration:</p>
-a = Open the browser
-b = Access the system website with login and password_
-c = Insert all product information_
-d = Send information to the system_
-e = Repeat registration until all products are registered_
-print ( 1. {a}, 2. {b}, 3. {c}, {d}, {e}
+<br>
+  <p>Open the browser</p>
+  <p>Access the system website with login and password</p>
+  <p>Enter all product information</p>
+  <p>Send information to the system</p>
+  <p>Repeat registration until all products are registered</p>
 
 <p>The idea of this project was to show you how you can automate your repetitive tasks using Python.</p>
