@@ -29,7 +29,7 @@ preencher 6 informações no sistema para cada linha da base de dados. E para ev
 - _Enviar as informações para o sistema_
 - _Repetir o cadastro até acabar o cadastro de todos os produtos_
 
-<p>*A ideia desse projeto é lhe mostrar como é possível automatizar suas tarefas repetitivas utilizando o Python.*</p>
+<p>A ideia desse projeto é lhe mostrar como é possível automatizar suas tarefas repetitivas utilizando o Python.</p>
 <br>
 <br>
 
@@ -68,4 +68,4 @@ fill in 6 pieces of information in the system for each line in the database. And
 - _Send information to the system_
 - _Repeat registration until all products are registered_
 <br> 
-<p>*The idea of this project was to show you how you can automate your repetitive tasks using Python.*</p>
+<p>The idea of this project was to show you how you can automate your repetitive tasks using Python.</p>
